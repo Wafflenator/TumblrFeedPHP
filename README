@@ -1,0 +1,17 @@
+<h2>Get Tumblr Feed (PHP)</h2>
+<h4>Written By: Wafflenator</h4>
+<hr />
+<p>
+	This is a simple and very basic script to grab a user's Tumblr feed using the Tumblr API and JSON. It can be adapted in several ways
+	to make it more usable for a particular requirement. For example, as it sits now, it directly outputs HTML code via 'echo' PHP statements,
+	but can just as easily grab the content and return it to create the dynamic HTML.
+</p>
+<p>
+	<h5>What You Will Need:</h5>
+	<ul>
+		<li>Your Tumblr Username</li>
+		<li>Your Tumblr API Key</li>
+	</ul>
+<p>
+	<h5>Example:</h5>
+</p>
